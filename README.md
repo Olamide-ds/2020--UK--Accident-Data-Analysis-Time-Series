@@ -5,13 +5,13 @@
 Road traffic accidents are a major global health issue, causing over 1.2 million deaths and around 50 million injuries annually (Pawłowski et al., 2019). In the UK alone, the Department for Transport reported nearly 129,000 casualties between 2023 and 2024. This project analyzes UK road accident data from 2020, aiming to uncover hidden patterns, predict risks, and offer recommendations to improve public safety.
 
 📊 Objectives
-- Clean and preprocess government-provided accident data.
 
-- Perform in-depth analysis and visualizations to identify risk factors.
+-Predict/Forecast weekly/daily accident counts using time series models - ARIMA,SARIMA,XGBoost
 
 - Apply Apriori algorithm for association rule mining.
 
 - Forecast trends and provide insights for safer roads.
+
 
 🧹 Data Preprocessing
 - Focused only on records from 2020.
